@@ -1,0 +1,1 @@
+javac Dictionary.java DictionaryCommandLine.java DictionaryManagement.java test.java Word.java 
